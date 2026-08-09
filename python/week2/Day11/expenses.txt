@@ -1,0 +1,5 @@
+Petrol,210.0
+Clothes,1200.0
+Perfume,650.0
+Mobile,40000.0
+Mobile,19500.0
