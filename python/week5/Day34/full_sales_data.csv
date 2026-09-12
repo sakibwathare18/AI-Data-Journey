@@ -1,0 +1,11 @@
+Customer_ID,Name,City,Order_ID,Product_ID,Quantity,Product,Category,Price,Total_Sales
+101,Amit,Pune,5001.0,P01,2.0,Laptop,Electronics,75000.0,150000.0
+101,Amit,Pune,5003.0,P03,3.0,Keyboard,Accessories,3000.0,9000.0
+101,Amit,Pune,5007.0,P02,5.0,Mouse,Accessories,1500.0,7500.0
+102,Sneha,Mumbai,5002.0,P02,1.0,Mouse,Accessories,1500.0,1500.0
+102,Sneha,Mumbai,5006.0,P03,2.0,Keyboard,Accessories,3000.0,6000.0
+103,Rahul,Delhi,5004.0,P01,1.0,Laptop,Electronics,75000.0,75000.0
+103,Rahul,Delhi,5009.0,P03,2.0,Keyboard,Accessories,3000.0,6000.0
+104,Priya,Pune,5008.0,P01,1.0,Laptop,Electronics,75000.0,75000.0
+105,Vikas,Mumbai,5005.0,P02,4.0,Mouse,Accessories,1500.0,6000.0
+106,Neha,Nashik,,,,,,,

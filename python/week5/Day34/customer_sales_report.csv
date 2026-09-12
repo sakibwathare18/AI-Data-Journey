@@ -1,0 +1,7 @@
+Customer_ID,Name,City,Total_Orders,Total_Quantity,Total_Sales,Average_Order_Value
+101,Amit,Pune,3,10.0,166500.0,55500.0
+103,Rahul,Delhi,2,3.0,81000.0,40500.0
+104,Priya,Pune,1,1.0,75000.0,75000.0
+102,Sneha,Mumbai,2,3.0,7500.0,3750.0
+105,Vikas,Mumbai,1,4.0,6000.0,6000.0
+106,Neha,Nashik,0,0.0,0.0,
