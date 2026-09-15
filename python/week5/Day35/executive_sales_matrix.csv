@@ -1,0 +1,13 @@
+Product,Region,Total Quantity,Average Rating,Total Sales
+Headphones,North,5,4.1,5500
+Headphones,West,4,4.2,5000
+Keyboard,North,3,4.3,3200
+Keyboard,South,3,4.0,3500
+Keyboard,West,3,4.3,3000
+Laptop,North,2,4.7,80000
+Laptop,South,2,4.5,70000
+Laptop,West,4,4.6,147000
+Monitor,South,4,4.6,53000
+Monitor,West,2,4.8,30000
+Mouse,North,11,4.25,3300
+Mouse,South,4,4.2,1600
