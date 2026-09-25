@@ -1,0 +1,11 @@
+Employee_ID,Name,Department,City,Experience,Salary,Python,SQL,ML
+101,Amit,Data,Pune,2,55000,78,82,75
+102,Sneha,Data,Mumbai,4,75000,88,91,84
+103,Rahul,Engineering,Delhi,6,95000,72,85,89
+104,Priya,Data,Pune,3,68000,91,87,90
+105,Vikas,Engineering,Mumbai,8,120000,85,92,94
+106,Neha,Analytics,Delhi,5,85000,95,89,91
+107,Arjun,Analytics,Pune,2,58000,82,78,80
+108,Kiran,Engineering,Mumbai,7,110000,76,88,92
+109,Riya,Data,Delhi,1,48000,89,84,79
+110,Rohit,Analytics,Pune,4,72000,93,90,88
